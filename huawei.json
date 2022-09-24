@@ -42,6 +42,7 @@
             "price":1099.0,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/81GiLcubFhL._SL1500_.jpg",
             "color":"Gold",
+            "RAM":"8GB",
             "memory":"32GB"
         },
         "6":{
@@ -50,6 +51,7 @@
             "price":1971.6,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/61g3QDDM07L._SL1000_.jpg",
             "memory":"64 GB",
+            "RAM":"4GB",
             "color":"Blue"
         },
         "7":{
@@ -58,6 +60,7 @@
             "price":1498.0,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/71xJ5m0LijL._SL1273_.jpg",
             "memory":"3GB/32GB",
+            "RAM":"8GB",
             "color":"Ruby Red"
         }
     }
