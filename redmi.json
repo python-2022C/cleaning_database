@@ -1,0 +1,454 @@
+{
+    "Redmi":{
+        "1":{
+            "name":"Redmi 6 Pro",
+            "company":"Mi",
+            "price":1878.9,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81xl7IHBw-L._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "2":{
+            "name":"Redmi 6 Pro",
+            "company":"Mi",
+            "price":1241.3,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81xl7IHBw-L._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "3":{
+            "name":"Redmi 7",
+            "company":"Redmi",
+            "price":554.1,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61P-%2BdWuq%2BL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "4":{
+            "name":"Redmi Y2",
+            "company":"Redmi",
+            "price":844.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/719shd%2BaqrL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "5":{
+            "name":"Redmi 6A",
+            "company":"Redmi",
+            "price":491.4,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71IhX7fJbzL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "6":{
+            "name":"Mi Redmi 6A",
+            "company":"Mi",
+            "price":1387.7,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/510d4L0LYKL._SL1325_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "7":{
+            "name":"Redmi 6 Pro",
+            "company":"Mi",
+            "price":1427.5,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81SgDtCe2zL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "8":{
+            "name":"Redmi 7",
+            "company":"Redmi",
+            "price":444.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61P-%2BdWuq%2BL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "9":{
+            "name":"Xiaomi Redmi 6 Pro",
+            "company":"Mi",
+            "price":1042.2,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71ha0V0c8kL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "10":{
+            "name":"Redmi Y3",
+            "company":"Redmi",
+            "price":1468.6,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71dWx5H92oL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "11":{
+            "name":"Redmi Y3",
+            "company":"Redmi",
+            "price":1423.2,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71L9IZiJB9L._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "12":{
+            "name":"Redmi 7",
+            "company":"Redmi",
+            "price":816.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61V8%2BYxRWqL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "13":{
+            "name":"Mi Redmi 6A",
+            "company":"Mi",
+            "price":1320.2,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71CKuOhcuAL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "14":{
+            "name":"Redmi Y2",
+            "company":"Redmi",
+            "price":1498.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/719shd%2BaqrL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "15":{
+            "name":"Redmi 6 Pro",
+            "company":"Mi",
+            "price":324.7,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81SgDtCe2zL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "16":{
+            "name":"Redmi 5",
+            "company":"Redmi",
+            "price":899.9,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81ORlGLUzWL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "17":{
+            "name":"Redmi 6 Pro",
+            "company":"Mi",
+            "price":1960.4,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81QR95NILJL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "18":{
+            "name":"Redmi Y2",
+            "company":"Redmi",
+            "price":392.2,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71C5QuX8qeL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "19":{
+            "name":"Redmi 7",
+            "company":"Redmi",
+            "price":1049.2,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61XQ4wLdamL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "20":{
+            "name":"Redmi 7",
+            "company":"Redmi",
+            "price":612.1,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61XQ4wLdamL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "21":{
+            "name":"Redmi Y3",
+            "company":"Redmi",
+            "price":698.8,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/718FBBTV0IL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "22":{
+            "name":"Redmi Y3",
+            "company":"Redmi",
+            "price":1030.2,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71L9IZiJB9L._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "23":{
+            "name":"Redmi 6 Pro",
+            "company":"Mi",
+            "price":1193.5,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81QR95NILJL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "24":{
+            "name":"Redmi 7",
+            "company":"Redmi",
+            "price":310.9,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61V8%2BYxRWqL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "25":{
+            "name":"Redmi 6 Pro",
+            "company":"Mi",
+            "price":1579.1,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81CXU6r5PmL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "26":{
+            "name":"Mi Mi Redmi 5",
+            "company":"Redmi",
+            "price":919.9,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81C9mcBV6YL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "27":{
+            "name":"Mi Redmi 5",
+            "company":"Redmi",
+            "price":1755.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81ZrPnly9cL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "28":{
+            "name":"Redmi 5",
+            "company":"Mi",
+            "price":1513.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81XcGuHh9ZL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB",
+            "color":"Black"
+        },
+        "29":{
+            "name":"Redmi Y2",
+            "company":"Redmi",
+            "price":829.5,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71C6nwP%2BeiL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "30":{
+            "name":"Redmi Mi Note 6 Pro",
+            "company":"Redmi",
+            "price":1162.7,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/517Q3-wHBkL._SL1000_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "31":{
+            "name":"Redmi Y2",
+            "company":"Redmi",
+            "price":898.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61DSOby-hbL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "32":{
+            "name":"Redmi Y2",
+            "company":"Redmi",
+            "price":859.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71C5QuX8qeL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "33":{
+            "name":"Redmi Y3",
+            "company":"Redmi",
+            "price":1923.8,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/718FBBTV0IL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "34":{
+            "name":"Redmi Y1",
+            "company":"Mi",
+            "price":874.8,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81LDiPcfKnL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "35":{
+            "name":"Redmi Y2",
+            "company":"Redmi",
+            "price":960.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71vRuA4VPLL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "36":{
+            "name":"Mi Redmi 5",
+            "company":"Mi",
+            "price":709.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81ZrPnly9cL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"16GB Storage",
+            "color":"Black"
+        },
+        "37":{
+            "name":"Redmi Note 7S",
+            "company":"Mi",
+            "price":1335.4,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81bz9PMKR2L._SL1500_.jpg",
+            "RAM":"4GB RAM",
+            "memory":"4GB RAM",
+            "color":"Black"
+        },
+        "38":{
+            "name":"Redmi Note 7S",
+            "company":"Mi",
+            "price":1344.5,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/91Qvc1xhEEL._SL1500_.jpg",
+            "RAM":"4GB RAM",
+            "memory":"4GB RAM",
+            "color":"Black"
+        },
+        "39":{
+            "name":"Redmi 5",
+            "company":"Redmi",
+            "price":649.9,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81ORlGLUzWL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"16GB Storage",
+            "color":"Black"
+        },
+        "40":{
+            "name":"Mi Redmi 6",
+            "company":"Xiaomi",
+            "price":1554.8,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61ROfcN2SmL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB",
+            "color":"3Gb+64Gb"
+        },
+        "41":{
+            "name":"Redmi Y3",
+            "company":"Redmi",
+            "price":1433.1,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61--lEl-SnL._SL1000_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "42":{
+            "name":"Mi Redmi 4",
+            "company":"Mi",
+            "price":999.9,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61sMiVHbQPL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB",
+            "color":"Black"
+        },
+        "43":{
+            "name":"Redmi Mi Note 6 Pro",
+            "company":"Redmi",
+            "price":664.2,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/819ak1fO%2B1L._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "44":{
+            "name":"Mi Xiaomi Redmi Note 6 Pro",
+            "company":"Redmi",
+            "price":1971.6,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61g3QDDM07L._SL1000_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB",
+            "color":"Blue"
+        },
+        "45":{
+            "name":"Redmi 5",
+            "company":"Redmi",
+            "price":999.9,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81ORlGLUzWL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"32GB Storage",
+            "color":"Black"
+        },
+        "46":{
+            "name":"Redmi Note 4",
+            "company":"Mi",
+            "price":1229.7,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81YxYZoHEHL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "47":{
+            "name":"Redmi Note 5 Pro",
+            "company":"Mi",
+            "price":1448.3,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71FIzR3BfDL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "48":{
+            "name":"Mi Mi Redmi 5",
+            "company":"Redmi",
+            "price":1190.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81C9mcBV6YL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB Storage",
+            "color":"Black"
+        },
+        "49":{
+            "name":"Redmi Note 4",
+            "company":"Mi",
+            "price":341.1,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81%2BABCJR0XL._SL1500_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB",
+            "color":"Black"
+        },
+        "50":{
+            "name":"Xiaomi Redmi Note 7",
+            "company":"Xiaomi",
+            "price":1498.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71xJ5m0LijL._SL1273_.jpg",
+            "RAM":"8GB",
+            "memory":"64GB",
+            "color":"Ruby Red"
+        }
+    }
+}

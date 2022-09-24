@@ -3,20 +3,677 @@
         "1":{
             "name":"Samsung Galaxy M10",
             "company":"Samsung",
-            "color": "Ocean Blue",
-            "RAM": "3GB",
-            "memory": "32GB",
             "price":799.0,
-            "img_url":"https://images-na.ssl-images-amazon.com/images/I/613Os2k0a2L._SL1500_.jpg"
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/613Os2k0a2L._SL1500_.jpg",
+            "color":"Ocean Blue",
+            "memory":"3+32GB",
+            "RAM":"8GB"
         },
         "2":{
             "name":"Samsung Galaxy A10",
             "company":"Samsung",
-            "color": "Gold",
-            "RAM": "2GB",
-            "memory": "32GB",
             "price":530.5,
-            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81nhEX1cn4L._SL1500_.jpg"
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81nhEX1cn4L._SL1500_.jpg",
+            "color":"Gold",
+            "RAM":"2GB RAM",
+            "memory":"32GB Storage with No Cost EMI/Additional Exchange Offer"
+        },
+        "3":{
+            "name":"Samsung Galaxy M40",
+            "company":"Samsung",
+            "price":1440.7,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61yMQIMMODL._SL1000_.jpg",
+            "color":"Midnight Blue",
+            "RAM":"6GB RAM",
+            "memory":"128GB Storage"
+        },
+        "4":{
+            "name":"Samsung Galaxy M10",
+            "company":"Samsung",
+            "price":988.9,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/613Os2k0a2L._SL1500_.jpg",
+            "color":"Ocean Blue",
+            "memory":"2+16GB",
+            "RAM":"8GB"
+        },
+        "5":{
+            "name":"Samsung Galaxy M40",
+            "company":"Samsung",
+            "price":336.3,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61fBSSlueBL._SL1000_.jpg",
+            "color":"Cocktail Orange",
+            "RAM":"6GB RAM",
+            "memory":"128GB Storage"
+        },
+        "6":{
+            "name":"Samsung Galaxy M20",
+            "company":"Samsung",
+            "price":1019.3,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61nzw1i2taL._SL1500_.jpg",
+            "color":"Ocean Blue",
+            "memory":"4+64GB",
+            "RAM":"8GB"
+        },
+        "7":{
+            "name":"Samsung Galaxy M30",
+            "company":"Samsung",
+            "price":1831.2,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/816RTtou9zL._SL1500_.jpg",
+            "color":"Gradation Blue",
+            "memory":"4+64 GB",
+            "RAM":"8GB"
+        },
+        "8":{
+            "name":"Samsung Galaxy M20",
+            "company":"Samsung",
+            "price":1811.8,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61nzw1i2taL._SL1500_.jpg",
+            "color":"Ocean Blue",
+            "memory":"3+32GB",
+            "RAM":"8GB"
+        },
+        "9":{
+            "name":"Samsung On7 Pro",
+            "company":"Samsung",
+            "price":620.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81mKtZOvUmL._SL1500_.jpg",
+            "color":"Gold",
+            "RAM":"2GB RAM",
+            "memory":"16GB Storage"
+        },
+        "10":{
+            "name":"Samsung Galaxy M20",
+            "company":"Samsung",
+            "price":1305.5,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71rFOsegqqL._SL1500_.jpg",
+            "color":"Charcoal Black",
+            "memory":"4+64GB",
+            "RAM":"8GB"
+        },
+        "11":{
+            "name":"Samsung Galaxy A2 Core",
+            "company":"Samsung",
+            "price":1394.8,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/715qRScEL-L._SL1500_.jpg",
+            "color":"Dark Grey",
+            "RAM":"1GB RAM",
+            "memory":"16GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "12":{
+            "name":"Samsung Galaxy M30",
+            "company":"Samsung",
+            "price":1663.5,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/816RTtou9zL._SL1500_.jpg",
+            "color":"Gradation Blue",
+            "memory":"6+128 GB",
+            "RAM":"8GB"
+        },
+        "13":{
+            "name":"Samsung Galaxy M30",
+            "company":"Samsung",
+            "price":1882.3,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81Ir1ZnwJsL._SL1500_.jpg",
+            "color":"Gradation Black",
+            "memory":"4+64 GB",
+            "RAM":"8GB"
+        },
+        "14":{
+            "name":"Samsung Galaxy A20",
+            "company":"Samsung",
+            "price":1298.2,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/91tX5jqkdUL._SL1500_.jpg",
+            "color":"Black",
+            "RAM":"3GB RAM",
+            "memory":"32GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "15":{
+            "name":"Samsung Galaxy A20",
+            "company":"Samsung",
+            "price":1545.9,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/91tX5jqkdUL._SL1500_.jpg",
+            "color":"Black",
+            "RAM":"3GB RAM",
+            "memory":"32GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "16":{
+            "name":"Samsung Galaxy M10",
+            "company":"Samsung",
+            "price":765.8,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61vPPE0qssL._SL1500_.jpg",
+            "color":"Charcoal Black",
+            "memory":"3+32GB",
+            "RAM":"8GB"
+        },
+        "17":{
+            "name":"Samsung Galaxy A20",
+            "company":"Samsung",
+            "price":1756.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/91M-OMdg1mL._SL1500_.jpg",
+            "color":"Blue",
+            "RAM":"3GB RAM",
+            "memory":"32GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "18":{
+            "name":"Samsung Galaxy M30",
+            "company":"Samsung",
+            "price":894.8,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81Ir1ZnwJsL._SL1500_.jpg",
+            "color":"Gradation Black",
+            "memory":"6+128 GB",
+            "RAM":"8GB"
+        },
+        "19":{
+            "name":"Samsung Galaxy M20",
+            "company":"Samsung",
+            "price":1195.2,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71rFOsegqqL._SL1500_.jpg",
+            "color":"Charcoal Black",
+            "memory":"3+32GB",
+            "RAM":"8GB"
+        },
+        "20":{
+            "name":"Samsung Guru 1200",
+            "company":"Samsung",
+            "price":110.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81lO53zfDDL._SL1500_.jpg",
+            "color":"Black",
+            "RAM":"8GB",
+            "memory":"64GB"
+        },
+        "21":{
+            "name":"Samsung Galaxy A30",
+            "company":"Samsung",
+            "price":1272.2,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81EcudA5T0L._SL1500_.jpg",
+            "color":"Black",
+            "RAM":"4GB RAM",
+            "memory":"64GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "22":{
+            "name":"Samsung Galaxy A50",
+            "company":"Samsung",
+            "price":782.8,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/819OPU84B%2BL._SL1500_.jpg",
+            "color":"White",
+            "RAM":"6GB RAM",
+            "memory":"64GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "23":{
+            "name":"Samsung Galaxy A50",
+            "company":"Samsung",
+            "price":1302.6,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/819OPU84B%2BL._SL1500_.jpg",
+            "color":"White",
+            "RAM":"4GB RAM",
+            "memory":"64GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "24":{
+            "name":"Samsung Galaxy A10",
+            "company":"Samsung",
+            "price":1865.9,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71ftMiKUwbL._SL1500_.jpg",
+            "color":"Blue",
+            "RAM":"2GB RAM and 32GB with No Cost EMI/Additional Exchange Offers",
+            "memory":"64GB"
+        },
+        "25":{
+            "name":"Samsung Galaxy A20",
+            "company":"Samsung",
+            "price":1312.6,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81xZ9nTmxHL._SL1500_.jpg",
+            "color":"Gold",
+            "RAM":"3GB RAM",
+            "memory":"32GB Storage with No Cost EMI/Additional Exchange Offer"
+        },
+        "26":{
+            "name":"Samsung Galaxy A50",
+            "company":"Samsung",
+            "price":1472.5,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81eCI5lrCAL._SL1500_.jpg",
+            "color":"Blue",
+            "RAM":"6GB RAM",
+            "memory":"64GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "27":{
+            "name":"Samsung Galaxy A2 Core",
+            "company":"Samsung",
+            "price":1037.4,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71z5NTng2GL._SL1500_.jpg",
+            "color":"Blue",
+            "RAM":"1GB RAM",
+            "memory":"16GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "28":{
+            "name":"Samsung Guru FM Plus",
+            "company":"Samsung",
+            "price":137.5,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71j7xiYo-QL._SL1500_.jpg",
+            "color":"Dark Blue",
+            "RAM":"8GB",
+            "memory":"64GB"
+        },
+        "29":{
+            "name":"Samsung Galaxy A50",
+            "company":"Samsung",
+            "price":1114.4,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81J2Udk-2NL._SL1500_.jpg",
+            "color":"Black",
+            "RAM":"4GB RAM",
+            "memory":"64GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "30":{
+            "name":"Samsung Galaxy M40",
+            "company":"Samsung",
+            "price":1882.7,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81IYq0D1rxL._SL1500_.jpg",
+            "color":"Seawater Blue",
+            "RAM":"6GB RAM",
+            "memory":"128GB Storage"
+        },
+        "31":{
+            "name":"Samsung Galaxy A30",
+            "company":"Samsung",
+            "price":1755.4,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81lcrlBzZFL._SL1500_.jpg",
+            "color":"Blue",
+            "RAM":"4GB RAM",
+            "memory":"64GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "32":{
+            "name":"Samsung Galaxy A50",
+            "company":"Samsung",
+            "price":384.2,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81eCI5lrCAL._SL1500_.jpg",
+            "color":"Blue",
+            "RAM":"4GB RAM",
+            "memory":"64GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "33":{
+            "name":"Samsung Galaxy A50",
+            "company":"Samsung",
+            "price":1965.4,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81J2Udk-2NL._SL1500_.jpg",
+            "color":"Black",
+            "RAM":"6GB RAM",
+            "memory":"64GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "34":{
+            "name":"Samsung Galaxy A8 Star",
+            "company":"Samsung",
+            "price":731.9,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61F5WIQMg%2BL._SL1500_.jpg",
+            "color":"Black",
+            "RAM":"6GB RAM",
+            "memory":"64GB Storage"
+        },
+        "35":{
+            "name":"Samsung Galaxy A30",
+            "company":"Samsung",
+            "price":967.5,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81AZ757zrGL._SL1500_.jpg",
+            "color":"White",
+            "RAM":"4GB RAM",
+            "memory":"64GB Storage"
+        },
+        "36":{
+            "name":"Samsung Galaxy A30",
+            "company":"Samsung",
+            "price":955.8,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81AZ757zrGL._SL1500_.jpg",
+            "color":"White",
+            "RAM":"4GB RAM",
+            "memory":"64GB Storage"
+        },
+        "37":{
+            "name":"Samsung Guru FM Plus",
+            "company":"Samsung",
+            "price":137.5,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61yZV1l7D%2BL._SL1500_.jpg",
+            "color":"White",
+            "RAM":"8GB",
+            "memory":"64GB"
+        },
+        "38":{
+            "name":"Samsung Galaxy A10",
+            "company":"Samsung",
+            "price":876.2,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71qJXXHQWXL._SL1500_.jpg",
+            "color":"Black",
+            "RAM":"2GB RAM and 32GB with No Cost EMI/Additional Exchange Offers",
+            "memory":"64GB"
+        },
+        "39":{
+            "name":"Samsung Metro 313",
+            "company":"Samsung",
+            "price":199.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71QHB16ZzUL._SL1500_.jpg",
+            "color":"Black",
+            "RAM":"8GB",
+            "memory":"64GB"
+        },
+        "40":{
+            "name":"Samsung Metro 313",
+            "company":"Samsung",
+            "price":202.5,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71MNgRR8kWL._SL1500_.jpg",
+            "color":"Gold",
+            "RAM":"8GB",
+            "memory":"64GB"
+        },
+        "41":{
+            "name":"Samsung Galaxy A8+",
+            "company":"Samsung",
+            "price":1838.4,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71ixEbKAu1L._SL1500_.jpg",
+            "color":"Black",
+            "RAM":"6GB RAM",
+            "memory":"64GB Storage"
+        },
+        "42":{
+            "name":"Samsung Guru Music 2",
+            "company":"Samsung",
+            "price":805.8,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71keePS0y6L._SL1500_.jpg",
+            "color":"Gold",
+            "RAM":"8GB",
+            "memory":"64GB"
+        },
+        "43":{
+            "name":"Samsung Galaxy A70",
+            "company":"Samsung",
+            "price":1940.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81ewhyroADL._SL1500_.jpg",
+            "color":"Blue",
+            "RAM":"6GB RAM",
+            "memory":"128GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "44":{
+            "name":"Samsung Galaxy S10 Plus",
+            "company":"Samsung",
+            "price":1905.6,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/619jtWsN0cL._SL1500_.jpg",
+            "color":"Black",
+            "RAM":"8GB RAM",
+            "memory":"128GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "45":{
+            "name":"Samsung Metro 350",
+            "company":"Samsung",
+            "price":280.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71Fdt-neXNL._SL1500_.jpg",
+            "color":"Blue Black",
+            "RAM":"8GB",
+            "memory":"64GB"
+        },
+        "46":{
+            "name":"Samsung Metro 350",
+            "company":"Samsung",
+            "price":280.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71Fdt-neXNL._SL1500_.jpg",
+            "color":"Blue Black",
+            "RAM":"8GB",
+            "memory":"64GB"
+        },
+        "47":{
+            "name":"Samsung Metro 313",
+            "company":"Samsung",
+            "price":202.5,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71eK72baU9L._SL1500_.jpg",
+            "color":"Grey",
+            "RAM":"8GB",
+            "memory":"64GB"
+        },
+        "48":{
+            "name":"Samsung Galaxy S10 Plus",
+            "company":"Samsung",
+            "price":1583.2,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61dvlh%2BCsqL._SL1500_.jpg",
+            "color":"White",
+            "RAM":"8GB RAM",
+            "memory":"512GB Storage"
+        },
+        "49":{
+            "name":"Samsung Galaxy J6",
+            "company":"Samsung",
+            "price":1090.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61AUegCz3fL._SL1500_.jpg",
+            "color":"Black",
+            "RAM":"4GB RAM",
+            "memory":"64GB Storage"
+        },
+        "50":{
+            "name":"Samsung Galaxy J6",
+            "company":"Samsung",
+            "price":1090.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61AUegCz3fL._SL1500_.jpg",
+            "color":"Black",
+            "RAM":"4GB RAM",
+            "memory":"64GB Storage"
+        },
+        "51":{
+            "name":"Samsung Galaxy S10e",
+            "company":"Samsung",
+            "price":775.5,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51Mn%2B13UizL._SL1500_.jpg",
+            "color":"Black",
+            "RAM":"6GB RAM",
+            "memory":"128GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "52":{
+            "name":"Samsung Guru Music 2",
+            "company":"Samsung",
+            "price":162.5,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61--zZV5y-L._SL1200_.jpg",
+            "color":"Black",
+            "RAM":"8GB",
+            "memory":"64GB"
+        },
+        "53":{
+            "name":"Samsung Galaxy A70",
+            "company":"Samsung",
+            "price":1840.7,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81F2OEF3erL._SL1500_.jpg",
+            "color":"Black",
+            "RAM":"6GB RAM",
+            "memory":"128GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "54":{
+            "name":"Samsung Galaxy J6",
+            "company":"Samsung",
+            "price":1090.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61yGk6vF-hL._SL1500_.jpg",
+            "color":"Gold",
+            "RAM":"4GB RAM",
+            "memory":"64GB Storage"
+        },
+        "55":{
+            "name":"Samsung Galaxy S9",
+            "company":"Samsung",
+            "price":5090.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/41tztfhVW-L._SL1000_.jpg",
+            "RAM":"4GB RAM",
+            "memory":"256GB Storage Midnight Black",
+            "color":"black"
+        },
+        "56":{
+            "name":"Samsung Galaxy S9",
+            "company":"Samsung",
+            "price":5090.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/41tztfhVW-L._SL1000_.jpg",
+            "RAM":"4GB RAM",
+            "memory":"256GB Storage Midnight Black",
+            "color":"black"
+        },
+        "57":{
+            "name":"Samsung Galaxy J6",
+            "company":"Samsung",
+            "price":1090.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61yRCT3lgQL._SL1500_.jpg",
+            "color":"Blue",
+            "RAM":"4GB RAM",
+            "memory":"64GB Storage"
+        },
+        "58":{
+            "name":"Samsung Galaxy S9 Plus SM-G965FZKDINS",
+            "company":"Samsung",
+            "price":4589.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61BXWwb80hL._SL1500_.jpg",
+            "color":"Midnight Black",
+            "RAM":"6GB RAM",
+            "memory":"64GB Storage Without Offer"
+        },
+        "59":{
+            "name":"Samsung Galaxy Tab A 7.0 Tablet",
+            "company":"Samsung",
+            "price":534.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61dU9YGVIUL._SL1200_.jpg",
+            "color":"Black",
+            "memory":"8GB",
+            "RAM":"8GB"
+        },
+        "60":{
+            "name":"Samsung Galaxy Tab A 7.0 Tablet",
+            "company":"Samsung",
+            "price":1496.8,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61dU9YGVIUL._SL1200_.jpg",
+            "color":"Black",
+            "memory":"8GB",
+            "RAM":"8GB"
+        },
+        "61":{
+            "name":"Samsung Galaxy S10 Plus",
+            "company":"Samsung",
+            "price":1866.4,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61fv4VZRQ7L._SL1500_.jpg",
+            "color":"Blue",
+            "RAM":"8GB RAM",
+            "memory":"128GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "62":{
+            "name":"Samsung Galaxy Tab A 2017 SM-T385NZDAINS Tablet",
+            "company":"Samsung",
+            "price":1410.4,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71g4rGJKBTL._SL1500_.jpg",
+            "color":"Gold",
+            "memory":"16GB",
+            "RAM":"8GB"
+        },
+        "63":{
+            "name":"Samsung Galaxy A8+",
+            "company":"Samsung",
+            "price":967.7,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71KjwTnBCNL._SL1500_.jpg",
+            "color":"Gold",
+            "RAM":"6GB RAM",
+            "memory":"64GB Storage with Offers"
+        },
+        "64":{
+            "name":"Samsung Galaxy J4",
+            "company":"Samsung",
+            "price":949.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61-koeG0vQL._SL1500_.jpg",
+            "color":"Black",
+            "memory":"32GB with No Cost EMI/Additional Exchange Offers",
+            "RAM":"8GB"
+        },
+        "65":{
+            "name":"Samsung Galaxy J4",
+            "company":"Samsung",
+            "price":949.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61-koeG0vQL._SL1500_.jpg",
+            "color":"Black",
+            "memory":"32GB with No Cost EMI/Additional Exchange Offers",
+            "RAM":"8GB"
+        },
+        "66":{
+            "name":"Samsung Galaxy A6",
+            "company":"Samsung",
+            "price":1448.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61SDmRMOj%2BL._SL1500_.jpg",
+            "color":"Blue",
+            "RAM":"4GB RAM",
+            "memory":"64GB Storage with Offers"
+        },
+        "67":{
+            "name":"Samsung Galaxy S10 Plus Ceramic White, 12GB RAM, 1TB Storage",
+            "company":"Samsung",
+            "price":11790.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61LFYmFlLuL._SL1500_.jpg",
+            "color":"1TB Storage",
+            "RAM":"12GB RAM",
+            "memory":"64GB"
+        },
+        "68":{
+            "name":"Samsung U Flex Bluetooth In-ear Flexible Headphones with Microphone",
+            "company":"Samsung",
+            "price":343.8,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61liSwdU%2BNL._SL1500_.jpg",
+            "color":"Blue",
+            "RAM":"8GB",
+            "memory":"64GB"
+        },
+        "69":{
+            "name":"Samsung Galaxy J4 Plus",
+            "company":"Samsung",
+            "price":1539.6,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/713JPtGrJHL._SL1500_.jpg",
+            "color":"Black",
+            "RAM":"2GB RAM",
+            "memory":"32GB Storage"
+        },
+        "70":{
+            "name":"Samsung Galaxy S8 G950FD 64GB DUAL SIM Unlocked",
+            "company":"Samsung",
+            "price":987.6,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61p06cO0CPL._SL1280_.jpg",
+            "color":"Phone-Midnight",
+            "RAM":"8GB",
+            "memory":"64GB"
+        },
+        "71":{
+            "name":"Samsung Galaxy SM-R170NZKAINU Bluetooth Ear Buds",
+            "company":"Samsung",
+            "price":998.9,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71br76%2BP1TL._SL1500_.jpg",
+            "color":"Black",
+            "RAM":"8GB",
+            "memory":"64GB"
+        },
+        "72":{
+            "name":"Samsung Galaxy S4 Flip Cover Folio Case",
+            "company":"Samsung",
+            "price":1691.5,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81G8mo8CmML._SL1500_.jpg",
+            "color":"White",
+            "RAM":"8GB",
+            "memory":"64GB"
+        },
+        "73":{
+            "name":"Samsung Galaxy A6",
+            "company":"Samsung",
+            "price":1499.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61SCSEZRTdL._SL1500_.jpg",
+            "color":"Black",
+            "RAM":"4GB RAM",
+            "memory":"64GB Storage with Offers"
+        },
+        "74":{
+            "name":"Samsung Galaxy Note 9",
+            "company":"Samsung",
+            "price":1269.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61-3SaQysBL._SL1500_.jpg",
+            "color":"Midnight Black",
+            "RAM":"6GB RAM",
+            "memory":"128GB Storage with No Cost EMI/Additional Exchange Offers"
+        },
+        "75":{
+            "name":"Samsung S-View Flip Cover for Samsung Galaxy S 6 Edge",
+            "company":"Samsung",
+            "price":374.4,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71vCXWeBX-L._SL1500_.jpg",
+            "color":"Clear Gold/Gold",
+            "RAM":"8GB",
+            "memory":"64GB"
         }
     }
 }
