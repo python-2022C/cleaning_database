@@ -1,0 +1,22 @@
+{
+    "Samsung":{
+        "1":{
+            "name":"Samsung Galaxy M10",
+            "company":"Samsung",
+            "color": "Ocean Blue",
+            "RAM": "3GB",
+            "memory": "32GB",
+            "price":799.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/613Os2k0a2L._SL1500_.jpg"
+        },
+        "2":{
+            "name":"Samsung Galaxy A10",
+            "company":"Samsung",
+            "color": "Gold",
+            "RAM": "2GB",
+            "memory": "32GB",
+            "price":530.5,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81nhEX1cn4L._SL1500_.jpg"
+        }
+    }
+}
