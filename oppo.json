@@ -1,0 +1,210 @@
+{
+    "Oppo":{
+        "1":{
+            "name":"OPPO A5S",
+            "company":"Oppo",
+            "color": "Black",
+            "RAM": "2 GB",
+            "memory": "32 GB",
+            "price":899.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71ZU4VsevqL._SL1000_.jpg"
+        },
+        "2":{
+            "name":"OPPO A1K ",
+            "company":"Oppo",
+            "color": "Black",
+            "RAM": "2 GB",
+            "memory": "32 GB",
+            "price":799.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71XTesfK-bL._SL1500_.jpg"
+        },
+        "3":{
+            "name":"OPPO F11 ",
+            "company":"Oppo",
+            "color": "Marble Green",
+            "RAM": "4 GB",
+            "memory": "128 GB",
+            "price":1119.1,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71MO0jRC9TL._SL1500_.jpg"
+        },
+        "4":{
+            "name":"OPPO F11 Pro ",
+            "company":"Oppo",
+            "color": "Waterfall Grey",
+            "RAM": "6 GB",
+            "memory": "128 GB",            
+            "price":342.9,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71ukhsF0iUL._SL1500_.jpg"
+        }, 
+        "5":{
+            "name":"OPPO A5S",
+            "company":"Oppo",
+            "color": "Black",
+            "RAM": "3 GB",
+            "memory": "32 GB", 
+            "price":999.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71ZU4VsevqL._SL1000_.jpg"
+        },    
+        "6":{
+            "name":"OPPO F11 Pro ",
+            "company":"Oppo",
+            "color": "Thunder Black",
+            "RAM": "6 GB",
+            "memory": "128 GB", 
+            "price":727.1,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51xHk2HlelL._SL1100_.jpg"
+        },
+        "7":{
+            "name":"OPPO F11",
+            "company":"Oppo",
+            "color": "Fluorite Purple",
+            "RAM": "6 GB",
+            "memory": "128 GB", 
+            "price":454.4,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71qP%2BfMtbDL._SL1500_.jpg"
+        },
+        "8":{
+            "name":"OPPO A3s ",
+            "company":"Oppo",
+            "color": "Red",
+            "RAM": "2 GB",
+            "memory": "16 GB", 
+            "price":799.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61g0woFHtKL._SL1310_.jpg"
+        },
+        "9":{
+            "name":"OPPO F11 Pro",
+            "company":"Oppo",
+            "color": "Aurora Green",
+            "RAM": "6 GB",
+            "memory": "64 GB", 
+            "price":1819.6,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51EhaIIKeJL._SL1100_.jpg"
+        },
+        "10":{
+            "name":"OPPO A5S",
+            "company":"Oppo",
+            "color": "Red",
+            "RAM": "2 GB",
+            "memory": "32 GB", 
+            "price":899.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81Hnvv9fNlL._SL1500_.jpg"
+        },
+        "11":{
+            "name":"OPPO F11",
+            "company":"Oppo",
+            "color": "Fluorite Purple",
+            "RAM": "4 GB",
+            "memory": "128 GB", 
+            "price":1406.8,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71qP%2BfMtbDL._SL1500_.jpg"
+        },
+        "12":{
+            "name":"OPPO A3s",
+            "company":"Oppo",
+            "color": "Dark Purple",
+            "RAM": "3GB",
+            "memory": "32GB", 
+            "price":999.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61gMOy6jiZL._SL1309_.jpg"
+        },
+        "13":{
+            "name":"OPPO A3s",
+            "company":"Oppo",
+            "color": "Red",
+            "RAM": "3GB",
+            "memory": "32GB", 
+            "price":999.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61g0woFHtKL._SL1310_.jpg"
+        },
+        "14":{
+            "name":"OPPO A7",
+            "company":"Oppo",
+            "color": "Glaze Blue",
+            "RAM": "4GB",
+            "memory": "64GB", 
+            "price":1399.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51khqzVPLlL._SL1100_.jpg"
+        },
+        "15":{
+            "name":"OPPO F11",
+            "company":"Oppo",
+            "color": "Marble Green",
+            "RAM": "6GB",
+            "memory": "128GB", 
+            "price":1751.8,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71MO0jRC9TL._SL1500_.jpg"
+        },
+        "16":{
+            "name":"OPPO A1K ",
+            "company":"Oppo",
+            "color": "Red",
+            "RAM": "3GB",
+            "memory": "32GB", 
+            "price":1807.7,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71XTesfK-bL._SL1500_.jpg"
+        },
+        "17":{
+            "name":"OPPO A83",
+            "company":"Oppo",
+            "color": "Red",
+            "RAM": "4GB",
+            "memory": "64GB", 
+            "price":1199.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/714m1gMVrwL._SL1500_.jpg"
+        },
+        "18":{
+            "name":"OPPO A5",
+            "company":"Oppo",
+            "color": "Dianmond Red",
+            "RAM": "4GB",
+            "memory": "64GB", 
+            "price":1199.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71EBuBlLd6L._SL1313_.jpg"
+        },
+        "19":{
+            "name":"OPPO F9 Pro",
+            "company":"Oppo",
+            "color": "Starry Purple",
+            "RAM": "6GB",
+            "memory": "64GB", 
+            "price":1423.9,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71hacv5qUqL._SL1327_.jpg"
+        },
+        "20":{
+            "name":"OPPO A5",
+            "company":"Oppo",
+            "color": "Blue",
+            "RAM": "4GB",
+            "memory": "64GB", 
+            "price":1365.8,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71EBuBlLd6L._SL1313_.jpg"
+        },
+        "21":{
+            "name":"OPPO A7",
+            "company":"Oppo",
+            "color": "Glaze Blue",
+            "RAM": "3GB",
+            "memory": "64GB", 
+            "price":1901.3,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/51khqzVPLlL._SL1100_.jpg"
+        },
+        "22":{
+            "name":"Oppo F5",
+            "company":"Oppo",
+            "color": "Red",
+            "RAM": "6GB",
+            "memory": "64GB", 
+            "price":1640.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61T8B4U6Z8L._SL1298_.jpg"
+        },
+        "23":{
+            "name":"Oppo F5",
+            "company":"Oppo",
+            "color": "Black",
+            "RAM": "6GB",
+            "memory": "64GB", 
+            "price":808.1,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61uM7FvCHuL._SL1288_.jpg"
+        }
+        }}
