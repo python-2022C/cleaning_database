@@ -1,0 +1,64 @@
+{
+    "Xiaomi":{
+        "1":{
+            "name":"Xiaomi Redmi 6 Pro",
+            "company":"Mi",
+            "price":1042.2,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71ha0V0c8kL._SL1500_.jpg",
+            "color":"Rose Gold",
+            "RAM":"4GB RAM",
+            "memory":"64GB Storage"
+        },
+        "2":{
+            "name":"Xiaomi Mi A2",
+            "company":"Mi",
+            "price":1011.7,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/91zwD%2B7G9zL._SL1500_.jpg",
+            "color":"Gold",
+            "RAM":"4GB RAM",
+            "memory":"64GB Storage"
+        },
+        "3":{
+            "name":"Xiaomi Mi A2",
+            "company":"Mi",
+            "price":1832.2,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/91Dh3ec3EFL._SL1500_.jpg",
+            "color":"Black",
+            "RAM":"4GB RAM",
+            "memory":"64GB Storage"
+        },
+        "4":{
+            "name":"Xiaomi Mi Note 5",
+            "company":"Xiaomi",
+            "price":979.9,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61PtmDCupRL._SL1348_.jpg",
+            "color":"Gold",
+            "RAM":"4GB RAM",
+            "memory":"64GB Storage"
+        },
+        "5":{
+            "name":"Mi Xiaomi Max",
+            "company":"Mi",
+            "price":1099.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/81GiLcubFhL._SL1500_.jpg",
+            "color":"Gold",
+            "memory":"32GB"
+        },
+        "6":{
+            "name":"Mi Xiaomi Redmi Note 6 Pro",
+            "company":"Redmi",
+            "price":1971.6,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61g3QDDM07L._SL1000_.jpg",
+            "memory":"64 GB",
+            "color":"Blue"
+        },
+        "7":{
+            "name":"Xiaomi Redmi Note 7",
+            "company":"Xiaomi",
+            "price":1498.0,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71xJ5m0LijL._SL1273_.jpg",
+            "memory":"3GB/32GB",
+            "color":"Ruby Red"
+        }
+    }
+}
