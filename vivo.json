@@ -1,0 +1,256 @@
+{
+    "Vivo":{
+        "1":{
+            "name": "Vivo Y91i",
+            "company": "Vivo",
+            "color": "Fusion Black",
+            "RAM": "2GB",
+            "memory": "32GB",
+            "price": 611.7,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51ZoulFBPGL._SL1200_.jpg"
+        },
+        "2":{
+            "name": "Vivo Y91i",
+            "company": "Vivo",
+            "color": "Ocean Blue",
+            "RAM": "2GB",
+            "memory": "32GB",
+            "price": 570.5,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51FnmxwFHDL._SL1200_.jpg"
+        },
+        "3":{
+            "name": "Vivo",
+            "company": "Vivo",
+            "color": "Mineral Blue",
+            "RAM": "4GB",
+            "memory": "128GB",
+            "price": 829.8,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/716BDAzG5tL._SL1200_.jpg"
+        },
+        "4":{
+            "name": "Vivo V15",
+            "company": "Vivo",
+            "color": "Aqua Blue",
+            "RAM": "6GB",
+            "memory": "64GB",
+            "price": 1471.2,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61KO32t9hcL._SL1200_.jpg"
+        },
+        "5":{
+            "name": "Vivo Y15",
+            "company": "Vivo",
+            "color": "Aqua Blue",
+            "RAM": "4GB",
+            "memory": "64GB",
+            "price": 977.9,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61d5kbgcBxL._SL1200_.jpg"
+        },
+        "6":{
+            "name": "Vivo V15 Pro",
+            "company": "Vivo",
+            "color": "Ruby Red",
+            "RAM": "6GB",
+            "memory": "128GB",
+            "price": 615.6,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61WFEAE5aKL._SL1200_.jpg"
+        },
+        "7":{
+            "name": "Vivo Y12",
+            "company": "Vivo",
+            "color": "Aqua Blue",
+            "RAM": "4GB",
+            "memory": "32GB",
+            "price": 769.2,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/518UXwfiTsL._SL1200_.jpg"
+        },
+        "8":{
+            "name": "Vivo Y12",
+            "company": "Vivo",
+            "color": "Burgundy Red",
+            "RAM": "4GB",
+            "memory": "32GB",
+            "price": 913.7,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51Ko2yS03EL._SL1200_.jpg"
+        },
+        "9":{
+            "name": "Vivo Y17",
+            "company": "Vivo",
+            "color": "Mystic Purple",
+            "RAM": "4GB",
+            "memory": "128GB",
+            "price": 1378.4,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/71nzvWeQ3XL._SL1200_.jpg"
+        },
+        "10":{
+            "name": "Vivo Y12",
+            "company": "Vivo",
+            "color": "Burgundy Red",
+            "RAM": "3GB",
+            "memory": "64GB",
+            "price": 897.3,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51Ko2yS03EL._SL1200_.jpg"
+        },
+        "11":{
+            "name": "Vivo V15 Pro",
+            "company": "Vivo",
+            "color": "Topaz Blue",
+            "RAM": "6GB",
+            "memory": "128GB",
+            "price": 468.0,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61ovWQUYp7L._SL1199_.jpg"
+        },
+        "12":{
+            "name": "Vivo V15 Pro",
+            "company": "Vivo",
+            "color": "Topaz Blue",
+            "RAM": "8GB",
+            "memory": "128GB",
+            "price": 1413.0,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61ovWQUYp7L._SL1199_.jpg"
+        },
+        "13":{
+            "name": "Vivo V11 Pro",
+            "company": "Vivo",
+            "color": "Starry Night Black",
+            "RAM": "6GB",
+            "memory": "64GB",
+            "price": 1799.0,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51HZ1FRUZ6L._SL1209_.jpg"
+        },
+        "14":{
+            "name": "Vivo V15",
+            "company": "Vivo",
+            "color": "Frozen Black",
+            "RAM": "6GB",
+            "memory": "64GB",
+            "price": 1231.7,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61MDwaWYWqL._SL1200_.jpg"
+        },
+        "15":{
+            "name": "Vivo V15 Pro",
+            "company": "Vivo",
+            "color": "Ruby Red",
+            "RAM": "8GB",
+            "memory": "128GB",
+            "price": 1947.6,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61WFEAE5aKL._SL1200_.jpg"
+        },
+        "16":{
+            "name": "Vivo Y91",
+            "company": "Vivo",
+            "color": "Nebula Purple",
+            "RAM": "3GB",
+            "memory": "32GB",
+            "price": 538.1,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61xLVj3Fh-L._SL1200_.jpg"
+        },
+        "17":{
+            "name": "Vivo Y15",
+            "company": "Vivo",
+            "color": "Burgundy Red",
+            "RAM": "4GB",
+            "memory": "64GB",
+            "price": 1845.8,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51AGL2wk0GL._SL1200_.jpg"
+        },
+        "18":{
+            "name": "Vivo Y83",
+            "company": "Vivo",
+            "color": "Gold",
+            "RAM": "4GB",
+            "memory": "32GB",
+            "price": 1069.9,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51YF75wFAoL._SL1170_.jpg"
+        },
+        "19":{
+            "name": "Vivo V9Pro",
+            "company": "Vivo",
+            "color": "Black",
+            "RAM": "6GB",
+            "memory": "128GB",
+            "price": 737.0,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51rI9j2aBNL._SL1200_.jpg"
+        },
+        "20":{
+            "name": "Vivo V7+",
+            "company": "Vivo",
+            "color": "Gold",
+            "RAM": "4GB",
+            "memory": "64GB",
+            "price": 1333.8,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/71%2BqoEP8T1L._SL1500_.jpg"
+        },
+        "21":{
+            "name": "Vivo V7+",
+            "company": "Vivo",
+            "color": "Gold",
+            "RAM": "6GB",
+            "memory": "64GB",
+            "price": 1333.8,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/71%2BqoEP8T1L._SL1500_.jpg"
+        },
+        "22":{
+            "name": "Vivo V9",
+            "company": "Vivo",
+            "color": "Black",
+            "RAM": "1GB",
+            "memory": "8GB",
+            "price": 1299.0,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61zbKINbwvL._SL1200_.jpg"
+        },
+        "23":{
+            "name": "Vivo Y81",
+            "company": "Vivo",
+            "color": "Gold",
+            "RAM": "4GB",
+            "memory": "32GB",
+            "price": 1403.4,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51RhdmrdLdL._SL1200_.jpg"
+        },
+        "24":{
+            "name": "Vivo V9",
+            "company": "Vivo",
+            "color": "Gold",
+            "RAM": "4GB",
+            "memory": "64GB",
+            "price": 1720.0,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/713nieQ1V9L._SL1500_.jpg"
+        },
+        "25":{
+            "name": "Vivo Y53",
+            "company": "Vivo",
+            "color": "Matte Black",
+            "RAM": "8GB",
+            "memory": "256GB",
+            "price": 839.9,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/71ziLVs3EoL._SL1500_.jpg"
+        },
+        "26":{
+            "name": "Vivo V9",
+            "company": "Vivo",
+            "color": "Pearl Black",
+            "RAM": "4GB",
+            "memory": "64GB",
+            "price": 1799.0,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/71TnjvE4R4L._SL1500_.jpg"
+        },
+        "27":{
+            "name": "Vivo V11 Pro 1804",
+            "company": "Vivo",
+            "color": "Supernova Red",
+            "RAM": "6GB",
+            "memory": "64GB",
+            "price": 2499.0,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/71LbWSprReL._SL1500_.jpg"
+        },
+        "28":{
+            "name": "Vivo Y53i 1606",
+            "company": "Vivo",
+            "color": "Matte Black",
+            "RAM": "4GB",
+            "memory": "64GB",
+            "price": 770.0,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61bvzrytMJL._SL1200_.jpg"
+        }
+    }
+}
