@@ -5,333 +5,342 @@
             "company":"Nokia",
             "price":1588.3,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/51wrcikRDcL._SL1126_.jpg",
+            "color":"Black",
             "RAM":"8GB",
-            "memory":"64GB",
-            "color":"Black"
+            "memory":"64GB"
         },
         "2":{
             "name":"Nokia 5.1",
             "company":"Nokia",
             "price":677.4,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/51v7%2BlLTjdL._SL1025_.jpg",
-            "RAM":"8GB",
+            "color":"Blue",
             "memory":"32 GB",
-            "color":"Blue"
+            "RAM":"8GB"
         },
         "3":{
+            "name":"nokia 5.1 Copper",
+            "company":"Nokia",
+            "price":749.9,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/61HTOI74SNL._SL1240_.jpg",
+            "color":"nokia 5.1 Copper",
+            "RAM":"8GB",
+            "memory":"64GB"
+        },
+        "4":{
             "name":"Nokia 105",
             "company":"Nokia",
             "price":1394.2,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/71Ysq787h7L._SL1500_.jpg",
+            "color":"Blue",
             "RAM":"8GB",
-            "memory":"64GB",
-            "color":"Blue"
+            "memory":"64GB"
         },
-        "4":{
+        "5":{
             "name":"Nokia 2.1",
             "company":"Nokia",
             "price":558.7,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/51Wstzm2ivL._SL1049_.jpg",
+            "color":"Blue-Copper",
             "RAM":"8GB",
-            "memory":"64GB",
-            "color":"Blue-Copper"
+            "memory":"64GB"
         },
-        "5":{
+        "6":{
             "name":"Nokia 3.2",
             "company":"Nokia",
             "price":785.0,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/81dOOs7xhLL._SL1500_.jpg",
-            "RAM":"8GB",
-            "memory":"16GB Storage",
-            "color":"Black"
+            "color":"Black",
+            "RAM":"2GB RAM",
+            "memory":"16GB Storage"
         },
-        "6":{
+        "7":{
             "name":"Nokia 216",
             "company":"Nokia",
             "price":1396.1,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/61Daa%2BMgrXL._SL1173_.jpg",
+            "color":"Blue",
             "RAM":"8GB",
-            "memory":"64GB",
-            "color":"Blue"
+            "memory":"64GB"
         },
-        "7":{
+        "8":{
             "name":"Nokia 8.1",
             "company":"Nokia",
             "price":1436.2,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/61brRkunYCL._SL1127_.jpg",
-            "RAM":"8GB",
-            "memory":"128GB Storage with No Cost EMI/Additional Exchange Offers",
-            "color":"Blue"
+            "color":"Blue",
+            "RAM":"6GB RAM",
+            "memory":"128GB Storage with No Cost EMI/Additional Exchange Offers"
         },
-        "8":{
+        "9":{
             "name":"Nokia 3.2",
             "company":"Nokia",
             "price":1022.7,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/81Iek6AWShL._SL1500_.jpg",
-            "RAM":"8GB",
-            "memory":"32GB Storage",
-            "color":"Steel"
+            "color":"Steel",
+            "RAM":"3GB RAM",
+            "memory":"32GB Storage"
         },
-        "9":{
+        "10":{
             "name":"Nokia 150",
             "company":"Nokia",
             "price":829.4,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/61DGZZBjMqL._SL1179_.jpg",
+            "color":"Black",
             "RAM":"8GB",
-            "memory":"64GB",
-            "color":"Black"
+            "memory":"64GB"
         },
-        "10":{
+        "11":{
             "name":"Nokia 3.1 Plus",
             "company":"Nokia",
             "price":852.0,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/51srUsu0DOL._SL1033_.jpg",
-            "RAM":"8GB",
-            "memory":"32GB Storage",
-            "color":"Baltic"
+            "color":"Baltic",
+            "RAM":"3GB RAM",
+            "memory":"32GB Storage"
         },
-        "11":{
+        "12":{
             "name":"Nokia 6.1",
             "company":"Nokia",
             "price":1099.9,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/81BosCxOwxL._SL1500_.jpg",
-            "RAM":"8GB",
-            "memory":"64GB Storage",
-            "color":"Blue-Gold"
+            "color":"Blue-Gold",
+            "RAM":"4GB RAM",
+            "memory":"64GB Storage"
         },
-        "12":{
+        "13":{
             "name":"Nokia 3310",
             "company":"Nokia",
             "price":1440.6,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/61uJzsRIKCL._SL1141_.jpg",
+            "color":"Dark Blue",
             "RAM":"8GB",
-            "memory":"64GB",
-            "color":"Dark Blue"
+            "memory":"64GB"
         },
-        "13":{
+        "14":{
             "name":"Nokia 216",
             "company":"Nokia",
             "price":890.8,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/51jUtsdS%2BBL._SL1017_.jpg",
+            "color":"Black",
             "RAM":"8GB",
-            "memory":"64GB",
-            "color":"Black"
+            "memory":"64GB"
         },
-        "14":{
+        "15":{
             "name":"Nokia 105",
             "company":"Nokia",
             "price":1122.3,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/51wrcikRDcL._SL1126_.jpg",
+            "color":"Black",
             "RAM":"8GB",
-            "memory":"64GB",
-            "color":"Black"
+            "memory":"64GB"
         },
-        "15":{
+        "16":{
             "name":"Nokia 4.2",
             "company":"Nokia",
             "price":971.0,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/81YTUmk8zCL._SL1500_.jpg",
-            "RAM":"8GB",
-            "memory":"32GB Storage",
-            "color":"Black"
+            "color":"Black",
+            "RAM":"3GB RAM",
+            "memory":"32GB Storage"
         },
-        "16":{
+        "17":{
             "name":"Nokia 130 DS",
             "company":"Nokia",
             "price":1087.9,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/61pSRQAfSYL._SL1141_.jpg",
+            "color":"Black",
             "RAM":"8GB",
-            "memory":"64GB",
-            "color":"Black"
+            "memory":"64GB"
         },
-        "17":{
+        "18":{
             "name":"Nokia 216",
             "company":"Nokia",
             "price":1761.9,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/61qgr1uOhBL._SL1157_.jpg",
+            "color":"Grey",
             "RAM":"8GB",
-            "memory":"64GB",
-            "color":"Grey"
+            "memory":"64GB"
         },
-        "18":{
+        "19":{
             "name":"Nokia 130 DS",
             "company":"Nokia",
             "price":408.6,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/61Kn9gtOnrL._SL1157_.jpg",
+            "color":"Grey",
             "RAM":"8GB",
-            "memory":"64GB",
-            "color":"Grey"
+            "memory":"64GB"
         },
-        "19":{
+        "20":{
             "name":"Nokia 8.1",
             "company":"Nokia",
             "price":986.4,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/61sDH4MeM1L._SL1127_.jpg",
-            "RAM":"8GB",
-            "memory":"64GB Storage",
-            "color":"Iron"
+            "color":"Iron",
+            "RAM":"4GB RAM",
+            "memory":"64GB Storage"
         },
-        "20":{
+        "21":{
             "name":"Nokia 150",
             "company":"Nokia",
             "price":742.9,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/61GKHNLqUCL._SL1004_.jpg",
+            "color":"White",
             "RAM":"8GB",
-            "memory":"64GB",
-            "color":"White"
+            "memory":"64GB"
         },
-        "21":{
+        "22":{
             "name":"Nokia 8.1",
             "company":"Nokia",
             "price":910.3,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/61brRkunYCL._SL1127_.jpg",
-            "RAM":"8GB",
-            "memory":"64GB Storage",
-            "color":"Blue"
+            "color":"Blue",
+            "RAM":"4GB RAM",
+            "memory":"64GB Storage"
         },
-        "22":{
+        "23":{
             "name":"Nokia 5",
             "company":"Nokia",
             "price":749.9,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/51Vm%2B-NVsdL._SL1024_.jpg",
-            "RAM":"8GB",
-            "memory":"16GB Storage",
-            "color":"Matte Black"
+            "color":"Matte Black",
+            "RAM":"3GB RAM",
+            "memory":"16GB Storage"
         },
-        "23":{
+        "24":{
             "name":"Nokia 130 DS",
             "company":"Nokia",
             "price":937.3,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/61U92H7PbTL._SL1152_.jpg",
+            "color":"Red",
             "RAM":"8GB",
-            "memory":"64GB",
-            "color":"Red"
-        },
-        "24":{
-            "name":"Nokia 3.1",
-            "company":"Nokia",
-            "price":757.9,
-            "img_url":"https://images-na.ssl-images-amazon.com/images/I/514YON-kucL._SL1142_.jpg",
-            "RAM":"8GB",
-            "memory":"32GB",
-            "color":"Black"
+            "memory":"64GB"
         },
         "25":{
             "name":"Nokia 3.1",
             "company":"Nokia",
             "price":757.9,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/514YON-kucL._SL1142_.jpg",
-            "RAM":"8GB",
+            "color":"Black",
             "memory":"32GB",
-            "color":"Black"
+            "RAM":"8GB"
         },
         "26":{
+            "name":"Nokia 3.1",
+            "company":"Nokia",
+            "price":757.9,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/514YON-kucL._SL1142_.jpg",
+            "color":"Black",
+            "memory":"32GB",
+            "RAM":"8GB"
+        },
+        "27":{
             "name":"Nokia 3310",
             "company":"Nokia",
             "price":1325.1,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/61m-SMoJ4tL._SL1000_.jpg",
+            "color":"Grey",
             "RAM":"8GB",
-            "memory":"64GB",
-            "color":"Grey"
+            "memory":"64GB"
         },
-        "27":{
+        "28":{
             "name":"Nokia 6.1 Plus",
             "company":"Nokia",
             "price":1661.5,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/61UXDdyLTxL._SL1100_.jpg",
-            "RAM":"8GB",
-            "memory":"64GB Storage",
-            "color":"Black"
+            "color":"Black",
+            "RAM":"6GB RAM",
+            "memory":"64GB Storage"
         },
-        "28":{
+        "29":{
             "name":"Nokia XP-150 Phone Cover for Nokia 1",
             "company":"Nokia",
             "price":1857.6,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/51B89URNm1L._SL1191_.jpg",
+            "color":"Azure-Grey",
             "RAM":"8GB",
-            "memory":"64GB",
-            "color":"Azure-Grey"
+            "memory":"64GB"
         },
-        "29":{
+        "30":{
             "name":"Nokia 2.1",
             "company":"Nokia",
             "price":629.0,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/51v6kseiSlL._SL1089_.jpg",
+            "color":"Blue-Silver",
             "RAM":"8GB",
-            "memory":"64GB",
-            "color":"Blue-Silver"
+            "memory":"64GB"
         },
-        "30":{
-            "name":"Nokia 3.1 Plus",
+        "31":{
+            "name":"Nokia 3.1",
             "company":"Nokia",
             "price":844.9,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/61i4SzQqyoL._SL1168_.jpg",
+            "color":"Charcoal",
             "RAM":"8GB",
-            "memory":"64GB",
-            "color":"Charcoal"
+            "memory":"64GB"
         },
-        "31":{
-            "name":"Nokia 2.1",
+        "32":{
+            "name":"Nokia 2.1 Blue-Silver",
             "company":"Nokia",
             "price":629.0,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/51v6kseiSlL._SL1089_.jpg",
+            "color":"Nokia 2.1 Blue-Silver",
             "RAM":"8GB",
-            "memory":"64GB",
-            "color":"Blue-Silver"
+            "memory":"64GB"
         },
-        "32":{
+        "33":{
             "name":"Nokia 8 Sirocco",
             "company":"Nokia",
             "price":2999.0,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/51diKYao8WL._SL1000_.jpg",
-            "RAM":"8GB",
-            "memory":"128GB Storage",
-            "color":"Black"
+            "color":"Black",
+            "RAM":"6GB RAM",
+            "memory":"128GB Storage"
         },
-        "33":{
+        "34":{
             "name":"Nokia 6.1",
             "company":"Nokia",
             "price":1008.8,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/61IBx6oJCGL._SL1208_.jpg",
-            "RAM":"8GB",
-            "memory":"32GB Storage",
-            "color":"Black-Copper"
-        },
-        "34":{
-            "name":"Nokia 105",
-            "company":"Nokia",
-            "price":597.7,
-            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71Ysq787h7L._SL1500_.jpg",
-            "RAM":"8GB",
-            "memory":"64GB",
-            "color":"Blue"
+            "color":"Black-Copper",
+            "RAM":"3GB RAM",
+            "memory":"32GB Storage"
         },
         "35":{
             "name":"Nokia 105",
             "company":"Nokia",
-            "price":473.8,
+            "price":597.7,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/71Ysq787h7L._SL1500_.jpg",
+            "color":"Blue",
             "RAM":"8GB",
-            "memory":"64GB",
-            "color":"Blue"
+            "memory":"64GB"
         },
         "36":{
+            "name":"Nokia 105",
+            "company":"Nokia",
+            "price":473.8,
+            "img_url":"https://images-na.ssl-images-amazon.com/images/I/71Ysq787h7L._SL1500_.jpg",
+            "color":"Blue",
+            "RAM":"8GB",
+            "memory":"64GB"
+        },
+        "37":{
             "name":"Nokia XP-150 Phone Cover for Nokia 1",
             "company":"Nokia",
             "price":937.9,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/51I9ZQeSQDL._SL1191_.jpg",
+            "color":"Pink-Yellow",
             "RAM":"8GB",
-            "memory":"64GB",
-            "color":"Pink-Yellow"
+            "memory":"64GB"
         },
-        "37":{
+        "38":{
             "name":"Nokia 3.1",
             "company":"Nokia",
             "price":890.0,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/61afkCy%2Bq6L._SL1140_.jpg",
-            "RAM":"8GB",
+            "color":"White",
             "memory":"32GB",
-            "color":"White"
+            "RAM":"8GB"
         }
     }
 }
